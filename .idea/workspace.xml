@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b4ccf44-3bda-4a81-b439-531780f9a18f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2주차.md" afterPath="$PROJECT_DIR$/2주차.md" />
-    </list>
+    <list default="true" id="1b4ccf44-3bda-4a81-b439-531780f9a18f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +15,15 @@
         <entry file="file://$PROJECT_DIR$/2주차.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="812">
-                <caret line="250" column="0" lean-forward="true" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+              <first_editor relative-caret-position="377">
+                <caret line="221" column="35" lean-forward="true" selection-start-line="221" selection-start-column="35" selection-end-line="221" selection-end-column="35" />
                 <folding>
-                  <marker date="1501109848000" expanded="true" signature="471:521" ph="select * fro... emp" />
-                  <marker date="1501109848000" expanded="true" signature="1409:1503" ph="select * fro... 사원" />
-                  <marker date="1501109848000" expanded="true" signature="2631:2669" ph="select * fro... t" />
-                  <marker date="1501109848000" expanded="true" signature="2715:2745" ph="select * fro... t" />
-                  <marker date="1501109848000" expanded="true" signature="2715:2783" ph="select * fro... " />
-                  <marker date="1501109848000" expanded="true" signature="2756:2777" ph="select from where" />
-                  <marker date="1501109848000" expanded="true" signature="3256:4214" ph="SELECT give0... temp_give" />
-                  <marker date="1501109848000" expanded="true" signature="4259:5258" ph="SELECT give0... temp_give" />
+                  <marker date="1501112112000" expanded="true" signature="471:521" ph="select * fro... emp" />
+                  <marker date="1501112112000" expanded="true" signature="1409:1503" ph="select * fro... 사원" />
+                  <marker date="1501112112000" expanded="true" signature="2631:2669" ph="select * fro... t" />
+                  <marker date="1501112112000" expanded="true" signature="2715:2745" ph="select * fro... t" />
+                  <marker date="1501112112000" expanded="true" signature="2715:2783" ph="select * fro... " />
+                  <marker date="1501112112000" expanded="true" signature="2756:2777" ph="select from where" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -431,12 +427,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501109779242</updated>
-      <workItem from="1501109782337" duration="236000" />
+      <workItem from="1501109782337" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236000" />
+    <option name="totallyTimeSpent" value="301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="66" width="1920" height="1080" extended-state="0" />
@@ -495,17 +491,15 @@
     <entry file="file://$PROJECT_DIR$/2주차.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="812">
-            <caret line="250" column="0" lean-forward="true" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <first_editor relative-caret-position="377">
+            <caret line="221" column="35" lean-forward="true" selection-start-line="221" selection-start-column="35" selection-end-line="221" selection-end-column="35" />
             <folding>
-              <marker date="1501109848000" expanded="true" signature="471:521" ph="select * fro... emp" />
-              <marker date="1501109848000" expanded="true" signature="1409:1503" ph="select * fro... 사원" />
-              <marker date="1501109848000" expanded="true" signature="2631:2669" ph="select * fro... t" />
-              <marker date="1501109848000" expanded="true" signature="2715:2745" ph="select * fro... t" />
-              <marker date="1501109848000" expanded="true" signature="2715:2783" ph="select * fro... " />
-              <marker date="1501109848000" expanded="true" signature="2756:2777" ph="select from where" />
-              <marker date="1501109848000" expanded="true" signature="3256:4214" ph="SELECT give0... temp_give" />
-              <marker date="1501109848000" expanded="true" signature="4259:5258" ph="SELECT give0... temp_give" />
+              <marker date="1501112112000" expanded="true" signature="471:521" ph="select * fro... emp" />
+              <marker date="1501112112000" expanded="true" signature="1409:1503" ph="select * fro... 사원" />
+              <marker date="1501112112000" expanded="true" signature="2631:2669" ph="select * fro... t" />
+              <marker date="1501112112000" expanded="true" signature="2715:2745" ph="select * fro... t" />
+              <marker date="1501112112000" expanded="true" signature="2715:2783" ph="select * fro... " />
+              <marker date="1501112112000" expanded="true" signature="2756:2777" ph="select from where" />
             </folding>
           </first_editor>
           <second_editor />
